@@ -13,7 +13,7 @@ a) EDA
 b)  Model  
 &emsp;	i) K-NN (Cross validation + Regularisation)   
 c) Evaluation  
-&emsp;	i) Accuracy  
+&emsp;	i) RMSE  
 &emsp;	ii) Feature Importance  
 
 #### Part-2  
