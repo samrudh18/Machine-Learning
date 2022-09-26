@@ -41,7 +41,7 @@ c) Evaluation
 &emsp; i) Runtime  
 &emsp; ii) Batch-size  
 &emsp; iii) Iterations  
-c) Bayesian network  
+d) Bayesian network  
 
 ## [Assignment - 3](/CS771-Assignment-3-Notebook.ipynb)  
  
