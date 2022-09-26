@@ -37,6 +37,10 @@ a) Functions
 b) Optimisation  
 &emsp;	i) Gradient Descent  
 &emsp;	ii) Mini-batch Stochastic Gradient Descent  
+c) Evaluation  
+&emsp; i) Runtime  
+&emsp; ii) Batch-size  
+&emsp; iii) Iterations  
 c) Bayesian network  
 
 ## [Assignment - 3](/CS771-Assignment-3-Notebook.ipynb)  
