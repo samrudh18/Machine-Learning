@@ -1,7 +1,7 @@
 # Machine-Learning
 
 
-This repository contains the implementation and analysis of multiple Machine Learning algorithms. The repository includes two types of documents, ### Questions and ### Jupyter Notebooks containing the solutions. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Time and scikit-learn (only for verification). All of the above was done as a part of the CS771-Introduction to Machine Learning course instructed by Prof Nisheeth Srivastava at IIT Kanpur (Fall-2021). 
+This repository contains the implementation and analysis of multiple Machine Learning algorithms. The repository includes two types of documents, ###Questions and ###Jupyter Notebooks containing the solutions. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Time and scikit-learn (only for verification). All of the above was done as a part of the CS771-Introduction to Machine Learning course instructed by Prof Nisheeth Srivastava at IIT Kanpur (Fall-2021). 
 
 ## [Assignment - 1](/CS771-Assignment-1-Notebook.ipynb)  
 
@@ -25,7 +25,7 @@ b)  Model
 c) Evaluation  
 &emsp;	i) Accuracy  
 
-## [Assignment - 2] (CS771-Assignment-2-Notebook.ipynb)  
+## [Assignment - 2](/CS771-Assignment-2-Notebook.ipynb)  
 
 Contains the implementation and analysis of:  
 
@@ -39,7 +39,7 @@ b) Optimisation
 &emsp;	ii) Mini-batch Stochastic Gradient Descent  
 c) Bayesian network  
 
-## [Assignment - 3] (CS771-Assignment-3-Notebook.ipynb)  
+## [Assignment - 3](/CS771-Assignment-3-Notebook.ipynb)  
  
 Contains the implementation and analysis of:  
 
@@ -60,7 +60,7 @@ b) Evaluation
 &emsp;	ii) Accuracy  
 &emsp;	iii) KL Divergence  
 
-## [Assignment - 4] (CS771-Assignment-4-Notebook.ipynb)   
+## [Assignment - 4](/CS771-Assignment-4-Notebook.ipynb)   
 
 Contains the implementation and analysis of:  
  
