@@ -3,13 +3,13 @@
 
 This repository contains the implementation and analysis of multiple Machine Learning algorithms. The repository includes two types of documents, ### Questions and ### Jupyter Notebooks containing the solutions. The algorithms and environments have been implemented in Python using the following libraries: Numpy, Matplotlib, Pandas, Copy, Time and scikit-learn (only for verification). All of the above was done as a part of the CS771-Introduction to Machine Learning course instructed by Prof Nisheeth Srivastava at IIT Kanpur (Fall-2021). 
 
-## [Assignment - 1] (/CS771-Assignment-1-Notebook.ipynb)  
+## [Assignment - 1](/CS771-Assignment-1-Notebook.ipynb)  
 
 Contains the implementation and analysis of:  
 
 #### Part-1  
-a) EDA
-&emsp;	i) [Automobile Dataset] (https://www.kaggle.com/datasets/toramky/automobile-dataset)  
+a) EDA  
+&emsp;	i) [Automobile Dataset](https://www.kaggle.com/datasets/toramky/automobile-dataset)  
 b)  Model  
 &emsp;	i) K-NN (Cross validation + Regularisation)   
 c) Evaluation  
@@ -45,8 +45,7 @@ Contains the implementation and analysis of:
 
 #### Part-1  
 a) EDA  
-&emsp;	[Bank-note-authentication-dataset]  
-(https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data)  
+&emsp;	i) [Bank-note-authentication-dataset](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data)  
 b) Model  
 &emsp;	i) Perceptron  
 c) Evaluation  
